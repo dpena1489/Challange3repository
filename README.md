@@ -1,5 +1,4 @@
-# Challange3repository
-03 JavaScript Password Generator 
+# 03 JavaScript Password Generator 
 
 
 This webpage is a simple password generator powered by JavaScript. 
