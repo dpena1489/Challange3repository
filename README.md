@@ -8,7 +8,7 @@ This webpage is a simple password generator powered by JavaScript.
 
 Come to my webpage to access the password generator. Click the "`Generate Password`" button to start the process. 
 
-![Webpage-Image](./Assets/03-javascript-homework-demo.png)
+file:///C:/Users/dpena/bootcamp/challange3repository/Develop/index.html
 
 To generate a strong password, follow the steps below:
 
